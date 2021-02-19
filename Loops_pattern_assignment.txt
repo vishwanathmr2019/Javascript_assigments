@@ -1,0 +1,13 @@
+JS assignment on nested loops
+1) write a program to display the following pattern
+   *
+   * *
+   * * *
+   * * * *
+   and also write to display
+   + + + + +
+   - - - -
+   + + +
+   - -
+   +
+
