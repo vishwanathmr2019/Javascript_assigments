@@ -1,4 +1,5 @@
-JS assignment on nested loops
+JS assignment on nested loops, write using the function which brings modularity in the code
+
 1) write a program to display the following pattern
    *
    * *
@@ -10,4 +11,55 @@ JS assignment on nested loops
    + + +
    - -
    +
+2) Display the following pattern
+   10
+   11 12
+   13 14 15
+   16 17 18 19
+
+   and also write to display  
+
+   75 74 73 72 71
+   70 69 68 67
+   66 65 64
+   63 62
+   61
+
+3) find all the prime numbers in the range of 100 to 700
+   stop  processing the number range,
+   the moment your prime number count reaches 10  
+   if the count is not reached 10 then continue processing the range 
+   of the number.
+
+4) given  var a = [15,14,18,20,8,25,199,200,55,45,3,200]
+   find how many numbers are multiples of 5 as well as 8
+   how many numbers are perfect square 
+   (example of perfect square is 16 which is 4x4 or 25 which is 5x5 etc)
+   sort the array (not using the built-in method) and display the sorted array  (you could try bubble sort)
+
+5)  reverse a number (say) var a= 16789
+    output should be 98761
+    find out during reversing how many digits repeat
+    (use switch case)
+    for example if the var b = 5655677885
+    reverse is 5887765565
+    count of 5 is 4
+    count of 8 is 2
+    count of 7 is 2
+    count of 6 is 2
+    and so on
+6) var a = 125
+   convert it to binary and display
+   the output is 1111101
+
+	****
+ 
+    
+   
+ 
+
+
+	
+
+  
 
