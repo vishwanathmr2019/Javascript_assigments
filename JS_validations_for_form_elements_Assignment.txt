@@ -1,0 +1,45 @@
+Assignment with HTML,CSS and form validation 
+=============================================
+For all the 3 problems. design a user friendly form with css and then infuse the JS code
+You must handle error handling using try, catch, finally appropriately.
+
+
+1)  Input 2 numbers in a text box
+    Have another box for holding the result (non-editable)
+	Have 5 button with names as '+', '-', '*' , '/' '%'
+	On click of '+'
+	the number from the text box1 and text box2 should be processed to give the result and placed in the third text box
+    
+    Note : you must handle divide by 0 error meaning if the text box1 has 10 and text box2 is 0 and on click of '/'	it should say 'Divide by 0 is not allowed'.
+
+Functionality should be added for -, * and %
+
+https://www.w3schools.com/js/js_errors.asp	https://www.tutorialspoint.com/javascript/javascript_error_handling.htm
+	
+2)  Enter a string in a text box. have another text box below it. the other text box is going to hold the result of the following activity done.
+    Have 5 Radio button options like this 
+	 opt1: Convert to lower case
+	 opt2: Convert to upper case
+	 opt3: Count how many vowels are there in the string in text box
+	 opt4: On click of this option all 'j', 'r' and 's' - in the string should be removed
+	      suppose the string was:: 
+hello all ravi , sanjay and jayanth are my friends
+	  then j,r,s char are removed to result into
+	  hello all avi , anay and ayanth ae my fiends
+	 opt5: On click of this compare the exact content of the string with a given array 
+var ctr[] = "Nepal","India","Germany","Brazil","Mexico","Japan","Korea"]
+  it should check whether the contents in the text box1 matches any array element  and display in the text box2 "country matches" OR "no country match"
+		  
+     Remember that on click of the radio button the output/result would have to go to another text box2
+
+3)  Date Validation
+    Day: Text box 1
+    Month : Text box 2
+    Year:  Text box 3 
+	
+Have a button 'Validate', on click of that it take the inputted data from all the 
+	3 text boxes and checks whether the date is valid or not
+	and display the message 'Valid date' OR 'Invalid date' in the text box
+If the user enters say A100 in text box1 or 2 or 3 handle error 	
+	*******
+	
